@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace factorial
-{
+{ 
     class Factoiral
     {
         static string name = "Факториал";
@@ -18,7 +18,7 @@ namespace factorial
             return result;
         }
 
-
+// Составить программу вычисления факториала введенного с клавиатуры числа. // результат вывести в таком виде: fact=1*2*3=6 ( при n =3)
         
 
         public static void Main(string[] args)
